@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5be19319-b55c-4bbd-98ee-20618b84c46b",
+  "atlasJson": "{\"width\":753,\"SubTexture\":[{\"width\":750,\"y\":1,\"height\":350,\"name\":\"win_color\",\"x\":1}],\"imagePath\":\"win_color_tex.png\",\"height\":353,\"name\":\"win_color\"}",
+  "texture": "0c51a440-870c-4770-8cd3-2aa00a53ce30",
+  "subMetas": {}
+}

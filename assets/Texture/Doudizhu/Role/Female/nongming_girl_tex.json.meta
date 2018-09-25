@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5f2eb40a-852d-4440-a72e-ef7f02e3c377",
+  "atlasJson": "{\"width\":570,\"SubTexture\":[{\"width\":126,\"y\":1,\"height\":224,\"name\":\"braid\",\"x\":442},{\"width\":117,\"y\":253,\"height\":148,\"name\":\"leg\",\"x\":220},{\"width\":144,\"y\":227,\"height\":128,\"name\":\"body\",\"x\":415},{\"width\":67,\"y\":253,\"height\":82,\"name\":\"hand_left\",\"x\":339},{\"width\":123,\"y\":403,\"height\":86,\"name\":\"hanc_right\",\"x\":220},{\"width\":217,\"y\":1,\"height\":205,\"name\":\"face_smile\",\"x\":1},{\"width\":217,\"y\":208,\"height\":205,\"name\":\"face_cry\",\"x\":1},{\"width\":193,\"y\":136,\"height\":115,\"name\":\"hair\",\"x\":220},{\"width\":220,\"y\":1,\"height\":133,\"name\":\"hood\",\"x\":220}],\"imagePath\":\"nongming_girl_tex.png\",\"height\":491,\"name\":\"nongming_girl\"}",
+  "texture": "3de72588-943e-47a5-8751-e55769952056",
+  "subMetas": {}
+}

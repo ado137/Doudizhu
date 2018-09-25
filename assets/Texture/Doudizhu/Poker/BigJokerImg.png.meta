@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2c3dd0da-7a3c-4b21-b557-54d84a8bd6fc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "BigJokerImg": {
+      "ver": "1.0.3",
+      "uuid": "ce239fab-f7bb-4d7f-bc39-b7e6d0e4fc25",
+      "rawTextureUuid": "2c3dd0da-7a3c-4b21-b557-54d84a8bd6fc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 136,
+      "height": 200,
+      "rawWidth": 136,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "115111ae-1a9e-476c-b0a8-356951e1b793",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "DouDiZhu_BG_PlayerStatus": {
+      "ver": "1.0.3",
+      "uuid": "543dede7-edd0-49d1-ad6c-027c30bdc865",
+      "rawTextureUuid": "115111ae-1a9e-476c-b0a8-356951e1b793",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 324,
+      "height": 119,
+      "rawWidth": 324,
+      "rawHeight": 119,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

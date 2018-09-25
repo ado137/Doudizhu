@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "13eb3754-214e-48a1-8f9a-00369aef7016",
+  "atlasJson": "{\"width\":864,\"height\":695,\"name\":\"bang\",\"SubTexture\":[{\"width\":286,\"y\":475,\"height\":175,\"name\":\"pang9\",\"x\":262},{\"width\":280,\"y\":284,\"height\":189,\"name\":\"pang8\",\"x\":262},{\"width\":277,\"y\":1,\"height\":281,\"name\":\"pang7\",\"x\":308},{\"width\":270,\"y\":261,\"height\":261,\"name\":\"pang6\",\"x\":587},{\"width\":275,\"y\":1,\"height\":258,\"name\":\"pang5\",\"x\":587},{\"width\":305,\"y\":1,\"height\":276,\"name\":\"pang4\",\"x\":1},{\"width\":259,\"y\":279,\"height\":225,\"name\":\"pang3\",\"x\":1},{\"width\":242,\"y\":506,\"height\":171,\"name\":\"pang2\",\"x\":1},{\"width\":206,\"y\":524,\"height\":169,\"name\":\"pang1\",\"x\":550}],\"imagePath\":\"bang_tex.png\"}",
+  "texture": "d7234b2c-883d-4471-b4d9-326887d9f7f2",
+  "subMetas": {}
+}

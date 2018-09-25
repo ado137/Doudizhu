@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4f1a8bf0-29c1-4b02-8dc2-fb7dd57a7306",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "DouDiZhu_Image_Coin": {
+      "ver": "1.0.3",
+      "uuid": "3fd0393c-8f90-4496-bac1-1ee9fb2d9428",
+      "rawTextureUuid": "4f1a8bf0-29c1-4b02-8dc2-fb7dd57a7306",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 72,
+      "height": 75,
+      "rawWidth": 72,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

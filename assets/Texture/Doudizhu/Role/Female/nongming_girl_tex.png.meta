@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3de72588-943e-47a5-8751-e55769952056",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "nongming_girl_tex": {
+      "ver": "1.0.3",
+      "uuid": "72ea413a-c0e6-4ee4-a35d-25e30260a380",
+      "rawTextureUuid": "3de72588-943e-47a5-8751-e55769952056",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 567,
+      "height": 488,
+      "rawWidth": 570,
+      "rawHeight": 491,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

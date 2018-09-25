@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "72dd3fd0-24d2-43a6-b134-75316da436fb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "DouDiZhu_Btn_Tips": {
+      "ver": "1.0.3",
+      "uuid": "043bd0cc-b2d0-4429-b072-a25b37cf8c36",
+      "rawTextureUuid": "72dd3fd0-24d2-43a6-b134-75316da436fb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 307,
+      "height": 125,
+      "rawWidth": 307,
+      "rawHeight": 125,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

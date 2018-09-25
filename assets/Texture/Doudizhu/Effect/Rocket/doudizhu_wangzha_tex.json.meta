@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7c735e19-7c64-4198-b904-46056f12d87b",
+  "atlasJson": "{\"SubTexture\":[{\"width\":92,\"y\":1,\"height\":382,\"name\":\"huojian/guang\",\"x\":437},{\"width\":61,\"y\":185,\"height\":150,\"name\":\"huojian/fire\",\"x\":192},{\"width\":189,\"y\":1,\"height\":344,\"name\":\"huojian/jian\",\"x\":1},{\"frameX\":-23,\"frameHeight\":206,\"y\":1,\"frameY\":-12,\"frameWidth\":278,\"width\":243,\"height\":182,\"name\":\"liefeng\",\"x\":192}],\"width\":531,\"height\":385,\"name\":\"doudizhu_wangzha\",\"imagePath\":\"doudizhu_wangzha_tex.png\"}",
+  "texture": "b1e4cbf2-eb68-4d01-8f95-329806f5c22d",
+  "subMetas": {}
+}

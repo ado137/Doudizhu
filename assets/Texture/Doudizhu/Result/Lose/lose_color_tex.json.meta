@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "714a3371-1041-496f-9445-f2345ce98ad5",
+  "atlasJson": "{\"width\":753,\"SubTexture\":[{\"width\":750,\"y\":1,\"height\":350,\"name\":\"lose_color\",\"x\":1}],\"imagePath\":\"lose_color_tex.png\",\"height\":353,\"name\":\"lose_color\"}",
+  "texture": "7eecbbc0-34df-4631-bb44-0fb5c5f7a624",
+  "subMetas": {}
+}

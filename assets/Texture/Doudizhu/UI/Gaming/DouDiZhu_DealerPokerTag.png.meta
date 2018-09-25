@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fdb563f5-eec8-429b-8f88-59ec7608abc1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "DouDiZhu_DealerPokerTag": {
+      "ver": "1.0.3",
+      "uuid": "4b6f8f56-81a2-44f1-8868-05db6b33cbdb",
+      "rawTextureUuid": "fdb563f5-eec8-429b-8f88-59ec7608abc1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 114,
+      "height": 113,
+      "rawWidth": 114,
+      "rawHeight": 113,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

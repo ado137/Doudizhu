@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0c5e3597-bfb3-4573-93ab-9adeb30d62a2",
+  "atlasJson": "{\"SubTexture\":[{\"width\":32,\"y\":1,\"height\":293,\"name\":\"feiji/wing\",\"x\":375},{\"width\":56,\"y\":202,\"height\":56,\"name\":\"feiji/fog1\",\"x\":1},{\"width\":372,\"y\":1,\"height\":199,\"name\":\"feiji/body\",\"x\":1}],\"width\":409,\"height\":296,\"name\":\"plane\",\"imagePath\":\"plane_tex.png\"}",
+  "texture": "909945b7-2f08-46c5-89d3-f419a0829eef",
+  "subMetas": {}
+}
